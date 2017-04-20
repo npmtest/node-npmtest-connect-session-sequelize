@@ -1,0 +1,30 @@
+npmtest-connect-session-sequelize@0.0.1 /home/travis/build/npmtest/node-npmtest-connect-session-sequelize
+└─┬ sequelize@3.30.4 
+  ├── bluebird@3.5.0 
+  ├── depd@1.1.0 
+  ├── dottie@1.1.1 
+  ├── generic-pool@2.4.2 
+  ├── inflection@1.12.0 
+  ├── lodash@4.12.0 
+  ├── moment@2.18.1 
+  ├── moment-timezone@0.5.13 
+  ├─┬ retry-as-promised@2.2.0 
+  │ └─┬ cross-env@3.2.4 
+  │   ├─┬ cross-spawn@5.1.0 
+  │   │ ├─┬ lru-cache@4.0.2 
+  │   │ │ ├── pseudomap@1.0.2 
+  │   │ │ └── yallist@2.1.2 
+  │   │ ├─┬ shebang-command@1.2.0 
+  │   │ │ └── shebang-regex@1.0.0 
+  │   │ └─┬ which@1.2.14 
+  │   │   └── isexe@2.0.0 
+  │   └── is-windows@1.0.0 
+  ├── semver@5.3.0 
+  ├── shimmer@1.1.0 
+  ├─┬ terraformer-wkt-parser@1.1.2 
+  │ └── terraformer@1.0.7 
+  ├── toposort-class@1.0.1 
+  ├── uuid@3.0.1 
+  ├── validator@5.7.0 
+  └── wkx@0.2.0 
+
